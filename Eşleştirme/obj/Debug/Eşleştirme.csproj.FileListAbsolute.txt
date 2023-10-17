@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\bin\Debug\Eşleştirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\bin\Debug\Eşleştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\bin\Debug\Eşleştirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\Eşleştirme\Eşleştirme\obj\Debug\Eşleştirme.pdb
